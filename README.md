@@ -39,7 +39,7 @@ When you integrate this to into your app, it automatically write to logs into cu
 To install, simply do a `go get`:
 
 ```
-go get https://github.com/pnkj-kmr/zap-rotate-logger
+go install github.com/pnkj-kmr/zap-rotate-logger
 ```
 
 ## OPTIONS
